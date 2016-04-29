@@ -23,4 +23,4 @@ $pop.waypoint(function (direction) {
   } else {
     $pop.removeClass('js-pop-animate');
   }
-}, { offset: '50%' });
+},{offset: '50%' });
