@@ -10,8 +10,8 @@ for (i = 0; i < 40; i++) {
   $pills = $('<div>');
   $pills.addClass('pills');
   $pills.css({
-    top: Math.random() * 100 + '' % '',
-    left: Math.random() * 100 + '' % '',
+    top: Math.random() * 100 + '%',
+    left: Math.random() * 100 + '%',
     transform: 'rotate(' + Math.random() * 180 + 'deg) scale(' + Math.random() + ')'
   });
   $body.append($pills);
