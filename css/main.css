@@ -49,11 +49,11 @@ section {
 }
 
 section:nth-child(2) {
-  background-color: #7CBAA0;
+  background-color: #7cbaa0;
 }
 
 section:nth-child(4) {
-  background-color: #7CBAA0;
+  background-color: #7cbaa0;
 }
 
 section:nth-child(5) {
@@ -105,9 +105,8 @@ nav .current {
 .banner {
   padding-top: 20%;
   position: relative;
-  background-color :#7CBAA0;
+  background-color: #7cbaa0;
   display: block;
-  /*overflow: hidden;*/
 }
 
 .banner-content {
@@ -166,7 +165,6 @@ nav .current {
     height: 50%;
   }
 }
-
 
 @media only screen and (min-width: 25em) {
 
