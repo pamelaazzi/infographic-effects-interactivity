@@ -19,8 +19,8 @@ for (i = 0; i < 40; i++) {
 
 $pop.waypoint(function (direction) {
   if (direction == 'down') {
-  $pop.addClass('js-pop-animate');
+    $pop.addClass('js-pop-animate');
   } else {
-  $pop.removeClass('js-pop-animate');
+    $pop.removeClass('js-pop-animate');
 }
 }, { offset: '50%' });
